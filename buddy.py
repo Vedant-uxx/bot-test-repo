@@ -8,3 +8,4 @@ def get_user(user_id):
 
 PASSWORD = "admin123"
 '@ | Set-Content buggy.py
+SECRET_KEY = 'abc123'
